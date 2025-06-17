@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/omd01-aws-ses-mcp-badge.png)](https://mseep.ai/app/omd01-aws-ses-mcp)
+
 # aws-ses-mcp 📧
 
 [![smithery badge](https://smithery.ai/badge/@omd01/aws-ses-mcp)](https://smithery.ai/server/@omd01/aws-ses-mcp)
